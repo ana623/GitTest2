@@ -1,0 +1,7 @@
+#Hub Mapping
+#Thu Dec 04 15:17:07 CET 2025
+cluster=Production
+labels=TestDev1
+managementConsoleName=Management Console
+managementConsoleUuid=b3004f87-967d-47e9-a8e9-7e9d543552bd
+type=mc
